@@ -31,4 +31,7 @@ you must install the software described below.
 3.  **[Jekyll](https://jekyllrb.com/)**.
     You can install this by running `gem install jekyll`.
 
+4.  **[SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)**.   
+    SQLite Manager is a Firefox add-on, to install open the URL above in your Firefox browser and click 'Add to Firefox'.
+
 [template]: {{ site.workshop_repo }}
