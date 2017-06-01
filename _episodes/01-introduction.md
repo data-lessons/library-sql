@@ -70,8 +70,6 @@ details of exactly how to import and export data and the datatypediffs.
 
 ## Introduction to SQLite Manager
 
-SQLite Manager is a Firefox add-on, which you need to install. Point your Firefox browser to [https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/) and click 'Add to Firefox'.
-
 Let's all open the database we downloaded in SQLite Manager:
 
 1. Start SQLite Manager by clicking on Firefox `Tools` menu, then click on `SQLite Manager`
