@@ -72,8 +72,11 @@ details of exactly how to import and export data and possibly some differences i
 
 ## Introduction to SQLite Manager
 
-Let's all open the database we downloaded in SQLite Manager by clicking on the
-open file icon.
+Let's all open the database we downloaded in SQLite Manager:
+
+1. Start SQLite Manager by clicking on Firefox `Tools` menu, then click on `SQLite Manager`
+2. Click on the `New Database` icon, give it a name (`articles` for instance)
+3. Click on the `Import` icon, and selcect a csv file you downloaded earlier (for instance `articles.csv`)
 
 You can see the tables in the database by looking at the left hand side of the
 screen under Tables.
